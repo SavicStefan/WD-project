@@ -1,0 +1,21 @@
+#start {
+	margin-top: 10px;
+
+	width: 75px;
+	height: 35px;
+
+	font-size: 20px;
+
+	border: 1px solid black;
+	border-radius: 8px;
+
+}
+
+#start:hover {
+	background-color: black;
+	color: white;
+}
+
+table {
+	font-size: 40px;
+}
